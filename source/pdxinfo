@@ -1,6 +1,6 @@
-name=A Panels Comic
-author=A Comic Artist
-description=This is a comic made with Panels.
-bundleID=com.yourdomain.GameName
+name=Mobware Minigames Cinematics
+author=Drew Loebach
+description=Playdate comic sequences made with Panels for Mobware Minigames
+bundleID=aloebach.minigames.cinematics
 version=1.0
 imagePath=SystemAssets/
